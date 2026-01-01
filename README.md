@@ -24,7 +24,7 @@ Clone this repo:
     git clone https://github.com/vt-le/InterAnomaly.git
     cd InterAnomaly/
 
-We evaluate `DualAnomaly` on:
+We evaluate `InterAnomaly` on:
 | Dataset | Link                                                                                  |
 |--|---------------------------------------------------------------------------------------|
 | UCSD Ped2 | [![Google drive](https://badgen.net/static/Homepage/Ped2/blue)](http://www.svcl.ucsd.edu/projects/anomaly/dataset.html) |

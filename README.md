@@ -2,7 +2,7 @@
 This is the code for **[Hierarchical Spatio-Temporal Modality Integration: A Novel Approach to Video Anomaly Detection]()**.
  
 ## Related Works
-> **DualAnomaly**: See [DualAnomaly: Dual Spatio-Temporal Cross-Attention Network for Robust Video Anomaly Detection]([https://github.com/vt-le/HSTforU](https://github.com/vt-le/DualAnomaly).
+> **DualAnomaly**: See [DualAnomaly: Dual Spatio-Temporal Cross-Attention Network for Robust Video Anomaly Detection](https://github.com/vt-le/DualAnomaly).
 
 > **HSTforU**: See [HSTforU: Anomaly Detection in Aerial and Ground-based Videos with Hierarchical Spatio-Temporal Transformer for U-net](https://github.com/vt-le/HSTforU).
 
